@@ -112,11 +112,14 @@
               <table class="table table-hover">
                 <thead>
                 <tr>
-                  <th>Message ID</th>
                   <th>Time</th>
                   <th>Description</th>
                 </tr>
                 </thead>
+                <tbody>
+                <td>${date}</td>
+                <td>${description}</td>
+                </tbody>
               </table>
             </div>
 
