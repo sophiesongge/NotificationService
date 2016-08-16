@@ -1,5 +1,4 @@
-# NotificationService
-# ProActive Cloud Automation portal
+# ProActive Notification Service Portal
 
 ## Installation
 
