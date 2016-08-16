@@ -1,0 +1,7 @@
+.gradle
+.idea
+.tmp
+out
+bower_components
+node_modules
+src

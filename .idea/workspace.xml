@@ -2,69 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="790506bb-d9b9-40e7-b235-d23c9d9ec77a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/resources/pcaportal.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/scripts/scripts.a5f34544.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/scripts/vendor.8796d8cf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/AE-Logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/ae-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/amazon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/catalog-item-none.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/clearwater.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/cloud-automation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/congruent_pentagon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/hadoop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/hdfs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/header-profile-skin-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/header-profile-skin-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/header-profile-skin-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/header-profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/logo_350.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/logout_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/openstack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/otis_redding.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/rm_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/scheduler_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/shattered.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/spark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/storm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/studio_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/patterns/triangular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/style.d2cd71ae.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/styles/vendor.5f1c49e7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/common/content.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/common/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/common/ibox_tools.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/common/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/common/submit_window.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/common/topnavbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/views/minor.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.13/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/org/ow2/proactive/notification_service/Controller/NotificationController.class" afterPath="$PROJECT_DIR$/build/classes/main/org/ow2/proactive/notification_service/Controller/NotificationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/org/ow2/proactive/notification_service/Service/NotificationService.class" afterPath="$PROJECT_DIR$/build/classes/main/org/ow2/proactive/notification_service/Service/NotificationService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___org_ow2_proactive___NotificationService_1_0_SNAPSHOT_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___org_ow2_proactive___NotificationService_1_0_SNAPSHOT_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___org_ow2_proactive___NotificationService_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___org_ow2_proactive___NotificationService_1_0_SNAPSHOT_war__exploded_.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/resources/pcaportal.properties" afterPath="$PROJECT_DIR$/app/resources/pcaportal.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/pca-rest.js" afterPath="$PROJECT_DIR$/app/scripts/pca-rest.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/minor.html" afterPath="$PROJECT_DIR$/app/views/minor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/Java/org/ow2/proactive/notification_service/Controller/NotificationController.java" afterPath="$PROJECT_DIR$/src/main/Java/org/ow2/proactive/notification_service/Controller/NotificationController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
     </list>
     <ignored path="NotificationService.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,28 +65,48 @@
       <file leaf-file-name="pca-rest.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/scripts/pca-rest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="107" column="10" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
+            <state relative-caret-position="10680">
+              <caret line="712" column="33" selection-start-line="712" selection-start-column="33" selection-end-line="712" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="content.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/common/content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/minor.html">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="63" column="46" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+            <state relative-caret-position="61">
+              <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,21 +115,11 @@
       <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2145">
-              <caret line="143" column="84" selection-start-line="143" selection-start-column="65" selection-end-line="143" selection-end-column="84" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <marker date="1471342164000" expanded="false" signature="10711:10744" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pcaportal.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/resources/pcaportal.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -478,14 +437,13 @@
         <option value="$PROJECT_DIR$/src/main/Java/org/ow2/proactive/notification_service/Controller/NotificationController.java" />
         <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/app/views/common/topnavbar.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/scripts/pca-rest.js" />
         <option value="$PROJECT_DIR$/app/scripts/config.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/app/views/common/navigation.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/app/views/minor.html" />
-        <option value="$PROJECT_DIR$/app/resources/pcaportal.properties" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/scripts/pca-rest.js" />
       </list>
     </option>
   </component>
@@ -563,6 +521,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NotificationService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NotificationService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NotificationService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NotificationService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -582,42 +580,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NotificationService" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NotificationService" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NotificationService" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NotificationService" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1104,12 +1066,12 @@
       <workItem from="1471281461627" duration="1569000" />
       <workItem from="1471283321962" duration="45000" />
       <workItem from="1471283452933" duration="145000" />
-      <workItem from="1471283641788" duration="18986000" />
+      <workItem from="1471283641788" duration="11873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49554000" />
+    <option name="totallyTimeSpent" value="42441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1378,54 +1340,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/common/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/common/content.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/directives.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="300">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <marker date="1470836205000" expanded="true" signature="2582:2596" ph="..." />
@@ -1442,26 +1360,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
+    <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="555">
+          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/common/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="126" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="84" selection-start-line="143" selection-start-column="65" selection-end-line="143" selection-end-column="84" />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <marker date="1471342164000" expanded="false" signature="10711:10744" ph="..." />
           </folding>
@@ -1470,32 +1404,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/minor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="63" column="46" selection-start-line="63" selection-start-column="46" selection-end-line="63" selection-end-column="46" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/resources/pcaportal.properties">
+    <entry file="file://$PROJECT_DIR$/app/scripts/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        <state relative-caret-position="255">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/common/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/pca-rest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="107" column="10" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
+        <state relative-caret-position="10680">
+          <caret line="712" column="33" selection-start-line="712" selection-start-column="33" selection-end-line="712" selection-end-column="33" />
           <folding />
         </state>
       </provider>
